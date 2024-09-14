@@ -24,8 +24,8 @@ h2{
   letter-spacing: 0.5em;
 }
 h3{
-  
-  margin-right: 90%;
+  position: absolute;
+  margin-right: -65%;
   margin-top: +38%;
   padding: 0.35em 1em;
   background: none;
